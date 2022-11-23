@@ -1,2 +1,17 @@
-
+#actor{
+    color: blueviolet;
+    width: 190px;
+    background-color: bisque;
+    
+}
+#quote{
+    color: magenta;
+    background-color: lightslategrey;
+    width: 199px;
+}
+*{
+    color: hotpink;
+    background-color: rgb(0, 223, 252);
+    align-self: baseline;
+}
 /* Your CSS Code here. */
